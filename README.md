@@ -1,2 +1,2 @@
-# Aplicacaoo-em-Node.js
+# Aplicacao-em-Node.js
 CRIANDO MINHA PRIMEIRA APLICAÇÃO/SISTEMA UTILIZANDO NODE JS
